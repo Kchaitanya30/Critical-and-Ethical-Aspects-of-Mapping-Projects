@@ -48,7 +48,7 @@ potential, often overlooking areas with dense Asian populations. This
 analysis underscores the need for targeted strategies to address
 investment gaps and promote equitable housing opportunities.
 
-<img src="Maps_images/Exercise5_1.png" alt="Bronx - Asian Population Location Quotients and Real Estate Investments" width="auto" height="50%">
+<img src="Maps_images/Exercise5_1.png" alt="Bronx - Asian Population Location Quotients and Real Estate Investments" width="400" height="600">
 
 <figure>
 <img src="Maps_images/Exercise5_1.png"
