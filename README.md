@@ -75,7 +75,7 @@ with rising property values.
 
 <figure>
 <img src="Maps_images/Exercise6.jpg"
-alt="Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC" />
+alt="Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC"width = "400" style="height: auto;" />
 <figcaption aria-hidden="true">Bivariate Map: Asian Population
 Percentage and Estimated Median List Price in NYC</figcaption>
 </figure>
