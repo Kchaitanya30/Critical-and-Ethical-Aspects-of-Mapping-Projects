@@ -16,7 +16,7 @@ inverted Plasma color ramp to highlight demographic patterns
 
 <figure>
 <img src="Maps_images/Exercise3.png"
-alt="Black Residents Percentage in NYC" />
+alt="Black Residents Percentage in NYC" width = "500" style="height: auto;">/>
 <figcaption aria-hidden="true">Black Residents Percentage in
 NYC</figcaption>
 </figure>
