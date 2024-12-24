@@ -48,6 +48,13 @@ potential, often overlooking areas with dense Asian populations. This
 analysis underscores the need for targeted strategies to address
 investment gaps and promote equitable housing opportunities.
 
+<table>
+  <tr>
+    <td><img src="Maps_images/Exercise5_1.png" alt="Image 1" width="400"></td>
+    <td><img src="Maps_images/Exercise5_2.png" alt="Image 2" width="400"></td>
+  </tr>
+</table>
+
 <img src="Maps_images/Exercise5_1.png" alt="Image description" width="400">
 
 <img src="Maps_images/Exercise5_2.png" alt="Image description" width="400">
