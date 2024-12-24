@@ -1,6 +1,6 @@
 # Critical-and-Ethical-Aspects-of-Mapping-Projects
 
-#### Title: Creating a Thematic Map from Race & Ethnicity Data
+### Title: Creating a Thematic Map from Race & Ethnicity Data
 
 #### Assignment Three
 
@@ -26,7 +26,7 @@ inverted Plasma color ramp to highlight demographic patterns
 
 
 
-#### Title: Mapping Race and Housing Market Estimates in NYC
+### Title: Mapping Race and Housing Market Estimates in NYC
 
 #### Assignment Five
 
@@ -63,7 +63,7 @@ investment gaps and promote equitable housing opportunities.
 
 
 
-#### Title: Bivariate Thematic Mapping of Asian Population Percentage and Estimated Median List Price in NYC
+### Title: Bivariate Thematic Mapping of Asian Population Percentage and Estimated Median List Price in NYC
 
 #### Assignment Six
 
@@ -120,7 +120,7 @@ NYC trends.
 
 
 
-#### Title: Bivariate Map of Black Population Density and Encampment Call Density in North Kings County, NYC
+### Title: Bivariate Map of Black Population Density and Encampment Call Density in North Kings County, NYC
 
 #### Description:
 
