@@ -2,9 +2,8 @@
 title: "README"
 author: "Krishna Chaitanya Mummadi"
 date: "2024-12-24"
-output: html_document
+output: md_document
 ---
-
 
 # Critical-and-Ethical-Aspects-of-Mapping-Projects
 
@@ -55,7 +54,6 @@ This Exercise examines the relationship between the Asian population percentage 
 This bivariate 4x4 map of New York City highlights the relationship between the estimated median sale price and estimated median list price for properties, depicted using a gradient of pink (sale price) and blue (list price). Census tracts are color-coded based on this relationship, while yellow and green dots mark "Possible Outliers" and "Probable Outliers" respectively, indicating areas with unusually high or low property prices. The map reveals a spatial correlation between estimated median sale and list prices, with potential pricing outliers concentrated in Manhattan and parts of Brooklyn, suggesting these areas might have irregular property market behaviors compared to the broader NYC trends.
 
 ![A bivariate map showing the spatial relationship between estimated median sale and list prices across NYC census tracts, highlighting potential and probable outliers in the property market](Maps_images/outliermap.jpg)
-
 
 
 
