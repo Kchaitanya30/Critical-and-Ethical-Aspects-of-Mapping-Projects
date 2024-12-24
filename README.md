@@ -55,16 +55,6 @@ investment gaps and promote equitable housing opportunities.
   </tr>
 </table>
 
-<img src="Maps_images/Exercise5_1.png" alt="Image description" width="400">
-
-<img src="Maps_images/Exercise5_2.png" alt="Image description" width="400">
-
-<figure>
-<img src="Maps_images/Exercise5_1.png"
-alt="Kings - Asian Population Location Quotients and Real Estate Investments" />
-<figcaption aria-hidden="true">Kings - Asian Population Location
-Quotients and Real Estate Investments</figcaption>
-</figure>
 
 #### Title: Bivariate Thematic Mapping of Asian Population Percentage and Estimated Median List Price in NYC
 
