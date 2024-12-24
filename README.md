@@ -97,15 +97,15 @@ might have irregular property market behaviors compared to the broader
 NYC trends.
 
 <p align="center">
-  <figure>
-    <img src="Maps_images/outliermap.jpg" 
-         alt="A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts" 
-         width="400" style="height: auto;">
-    <figcaption>
-      A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts
-    </figcaption>
-  </figure>
-</div>
+  <img src="Maps_images/outliermap.jpg" 
+       alt="A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts" 
+       width="400" style="height: auto;">
+  <br>
+  <figcaption style="font-style: italic; color: gray;">
+    A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts
+  </figcaption>
+</p>
+
 
 
 #### Title: Bivariate Map of Black Population Density and Encampment Call Density in North Kings County, NYC
