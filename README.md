@@ -18,8 +18,8 @@ inverted Plasma color ramp to highlight demographic patterns
   <img src="Maps_images/Exercise3.png" 
        alt="Black Residents Percentage in NYC" 
        width="600" style="height: auto;">
-  <br>
-  <figcaption style="font-style: italic; color: gray;">
+ </p>
+<p align="center" style="font-style: italic; color: gray;">
     Black Residents Percentage in NYC
   </figcaption>
 </p>
@@ -89,8 +89,8 @@ with rising property values.
   <img src="Maps_images/Exercise6.jpg" 
        alt="Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC" 
        width="350" style="height: auto;">
-  <br>
-  <figcaption style="font-style: italic; color: gray;">
+  </p>
+<p align="center" style="font-style: italic; color: gray;">
     Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC
   </figcaption>
 </p>
@@ -117,8 +117,8 @@ NYC trends.
   <img src="Maps_images/outliermap.jpg" 
        alt="A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts" 
        width="350" style="height: auto;">
-  <br>
-  <figcaption style="font-style: italic; color: gray;">
+ </p>
+<p align="center" style="font-style: italic; color: gray;">
     A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts
   </figcaption>
 </p>
@@ -144,7 +144,8 @@ Manhattan.
        alt="Black Resident density and Encampment call density in North Kings County, NYC" 
        width="400" style="height: auto;">
   <br>
-  <figcaption style="font-style: italic; color: gray;">
+  </p>
+<p align="center" style="font-style: italic; color: gray;">
     Black Resident density and Encampment call density in North Kings County, NYC
   </figcaption>
 </p>
