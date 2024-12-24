@@ -58,8 +58,8 @@ investment gaps and promote equitable housing opportunities.
        alt="Bronx - Asian Population Location Quotients and Real Estate Investments " width="350 style="height: auto;">
   <img src="Maps_images/Exercise5_2.png" 
        alt="Kings - Asian Population Location Quotients and Real Estate Investments" width="350 style="height: auto;">
-  <br>
-  <figcaption style="font-style: italic; color: gray;">
+  </p>
+<p align="center" style="font-style: italic; color: gray;">
     Bronx & Kings - Asian Population Location Quotients and Real Estate Investments
   </figcaption>
 </p>
