@@ -14,12 +14,17 @@ City using thematic mapping techniques. The project emphasizes comparing
 group differences, employing a quantile classification scheme and an
 inverted Plasma color ramp to highlight demographic patterns
 
-<figure>
-<img src="Maps_images/Exercise3.png"
-alt="Black Residents Percentage in NYC" width = "500" style="height: auto;">/>
-<figcaption aria-hidden="true">Black Residents Percentage in
-NYC</figcaption>
-</figure>
+<p align="center">
+  <img src="Maps_images/Exercise3.png" 
+       alt="Black Residents Percentage in NYC" 
+       width="700" style="height: auto;">
+  <br>
+  <figcaption style="font-style: italic; color: gray;">
+    Black Residents Percentage in NYC
+  </figcaption>
+</p>
+
+
 
 #### Title: Mapping Race and Housing Market Estimates in NYC
 
@@ -56,6 +61,8 @@ investment gaps and promote equitable housing opportunities.
 </table>
 
 
+
+
 #### Title: Bivariate Thematic Mapping of Asian Population Percentage and Estimated Median List Price in NYC
 
 #### Assignment Six
@@ -73,14 +80,19 @@ with significant observations in neighborhoods like Flushing, Bayside,
 and Elmhurst, where higher Asian population percentages are correlated
 with rising property values.
 
-<figure>
-<img src="Maps_images/Exercise6.jpg"
-alt="Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC"width = "400" style="height: auto;" />
-<figcaption aria-hidden="true">Bivariate Map: Asian Population
-Percentage and Estimated Median List Price in NYC</figcaption>
-</figure>
+<p align="center">
+  <img src="Maps_images/Exercise6.jpg" 
+       alt="Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC" 
+       width="400" style="height: auto;">
+  <br>
+  <figcaption style="font-style: italic; color: gray;">
+    Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC
+  </figcaption>
+</p>
 
-#### Title: Spatial Analysis of NYC Property Market: Median Sale and List Price Outliers
+
+
+### Title: Spatial Analysis of NYC Property Market: Median Sale and List Price Outliers
 
 #### Description:
 
@@ -122,9 +134,13 @@ show high encampment density despite low Black population density,
 suggesting influences like gentrification and economic proximity to
 Manhattan.
 
-<figure>
-<img src="Maps_images/finalproject.jpg"
-alt="Black Resident density and Encampment call density in North Kings County, NYC" width = "400" style="height: auto;">
-<figcaption aria-hidden="true">Black Resident density and Encampment
-call density in North Kings County, NYC</figcaption>
-</figure>
+<p align="center">
+  <img src="Maps_images/finalproject.jpg" 
+       alt="Black Resident density and Encampment call density in North Kings County, NYC" 
+       width="400" style="height: auto;">
+  <br>
+  <figcaption style="font-style: italic; color: gray;">
+    Black Resident density and Encampment call density in North Kings County, NYC
+  </figcaption>
+</p>
+
