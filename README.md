@@ -14,7 +14,12 @@ City using thematic mapping techniques. The project emphasizes comparing
 group differences, employing a quantile classification scheme and an
 inverted Plasma color ramp to highlight demographic patterns
 
-<img src="Maps_images/Exercise5_1.png" alt="Image description" width="600" height="424">
+<figure>
+<img src="Maps_images/Exercise3.png"
+alt="Black Residents Percentage in NYC" />
+<figcaption aria-hidden="true">Black Residents Percentage in
+NYC</figcaption>
+</figure>
 
 #### Title: Mapping Race and Housing Market Estimates in NYC
 
@@ -43,7 +48,7 @@ potential, often overlooking areas with dense Asian populations. This
 analysis underscores the need for targeted strategies to address
 investment gaps and promote equitable housing opportunities.
 
-<img src="Maps_images/Exercise5_1.png" alt="Bronx - Asian Population Location Quotients and Real Estate Investments" width="700" height="auto">
+<img src="Maps_images/Exercise5_1.png" alt="Image description" width="600" height="424">
 
 <figure>
 <img src="Maps_images/Exercise5_1.png"
