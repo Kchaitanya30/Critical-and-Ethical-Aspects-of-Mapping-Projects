@@ -23,9 +23,9 @@ inverted Plasma color ramp to highlight demographic patterns
     Black Residents Percentage in NYC
   </figcaption>
 </p>
-
-
 <br>
+
+
 ### Title: Mapping Race and Housing Market Estimates in NYC
 
 #### Assignment Five
