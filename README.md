@@ -17,7 +17,7 @@ inverted Plasma color ramp to highlight demographic patterns
 <p align="center">
   <img src="Maps_images/Exercise3.png" 
        alt="Black Residents Percentage in NYC" 
-       width="700" style="height: auto;">
+       width="600" style="height: auto;">
   <br>
   <figcaption style="font-style: italic; color: gray;">
     Black Residents Percentage in NYC
@@ -55,8 +55,8 @@ investment gaps and promote equitable housing opportunities.
 
 <table>
   <tr>
-    <td><img src="Maps_images/Exercise5_1.png" alt="Image 1" width="400"></td>
-    <td><img src="Maps_images/Exercise5_2.png" alt="Image 2" width="400"></td>
+    <td><img src="Maps_images/Exercise5_1.png" alt="Image 1" width="300"></td>
+    <td><img src="Maps_images/Exercise5_2.png" alt="Image 2" width="300"></td>
   </tr>
 </table>
 
@@ -83,7 +83,7 @@ with rising property values.
 <p align="center">
   <img src="Maps_images/Exercise6.jpg" 
        alt="Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC" 
-       width="400" style="height: auto;">
+       width="350" style="height: auto;">
   <br>
   <figcaption style="font-style: italic; color: gray;">
     Bivariate Map: Asian Population Percentage and Estimated Median List Price in NYC
@@ -111,7 +111,7 @@ NYC trends.
 <p align="center">
   <img src="Maps_images/outliermap.jpg" 
        alt="A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts" 
-       width="400" style="height: auto;">
+       width="350" style="height: auto;">
   <br>
   <figcaption style="font-style: italic; color: gray;">
     A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts
