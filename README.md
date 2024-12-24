@@ -96,10 +96,10 @@ concentrated in Manhattan and parts of Brooklyn, suggesting these areas
 might have irregular property market behaviors compared to the broader
 NYC trends.
 
-<div style="text-align: center;">
-  <figure>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <figure style="text-align: center;">
     <img src="Maps_images/outliermap.jpg" 
-         alt="A bivariate map showing the spatial relationship between estimated median sale and list prices across NYC census tracts, highlighting potential and probable outliers in the property market" 
+         alt="A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts" 
          width="400" style="height: auto;">
     <figcaption>
       A bivariate map showing the spatial relationship between estimated median sale and list prices across NYC census tracts, highlighting potential and probable outliers in the property market
@@ -124,7 +124,7 @@ Manhattan.
 
 <figure>
 <img src="Maps_images/finalproject.jpg"
-alt="Black Resident density and Encampment call density in North Kings County, NYC" />
+alt="Black Resident density and Encampment call density in North Kings County, NYC" width = "400" style="height: auto;">
 <figcaption aria-hidden="true">Black Resident density and Encampment
 call density in North Kings County, NYC</figcaption>
 </figure>
