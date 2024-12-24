@@ -25,7 +25,7 @@ inverted Plasma color ramp to highlight demographic patterns
 </p>
 
 
-
+<br>
 ### Title: Mapping Race and Housing Market Estimates in NYC
 
 #### Assignment Five
@@ -53,15 +53,20 @@ potential, often overlooking areas with dense Asian populations. This
 analysis underscores the need for targeted strategies to address
 investment gaps and promote equitable housing opportunities.
 
-<table>
-  <tr>
-    <td><img src="Maps_images/Exercise5_1.png" alt="Image 1" width="300"></td>
-    <td><img src="Maps_images/Exercise5_2.png" alt="Image 2" width="300"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="Maps_images/Exercise5_1.png" 
+       alt="Bronx - Asian Population Location Quotients and Real Estate Investments " width="350 style="height: auto;">
+  <img src="Maps_images/Exercise5_2.png" 
+       alt="Kings - Asian Population Location Quotients and Real Estate Investments" width="350 style="height: auto;">
+  <br>
+  <figcaption style="font-style: italic; color: gray;">
+    Bronx & Kings - Asian Population Location Quotients and Real Estate Investments
+  </figcaption>
+</p>
 
 
 
+<br>
 
 ### Title: Bivariate Thematic Mapping of Asian Population Percentage and Estimated Median List Price in NYC
 
@@ -90,7 +95,7 @@ with rising property values.
   </figcaption>
 </p>
 
-
+<br>
 
 ### Title: Spatial Analysis of NYC Property Market: Median Sale and List Price Outliers
 
@@ -118,7 +123,7 @@ NYC trends.
   </figcaption>
 </p>
 
-
+<br>
 
 ### Title: Bivariate Map of Black Population Density and Encampment Call Density in North Kings County, NYC
 
