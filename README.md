@@ -14,12 +14,7 @@ City using thematic mapping techniques. The project emphasizes comparing
 group differences, employing a quantile classification scheme and an
 inverted Plasma color ramp to highlight demographic patterns
 
-<figure>
-<img src="Maps_images/Exercise3.png"
-alt="Black Residents Percentage in NYC" />
-<figcaption aria-hidden="true">Black Residents Percentage in
-NYC</figcaption>
-</figure>
+<img src="Maps_images/Exercise5_1.png" alt="Image description" width="600" height="424">
 
 #### Title: Mapping Race and Housing Market Estimates in NYC
 

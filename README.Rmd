@@ -14,7 +14,8 @@ output: md_document
 #### Description: 
 This exercise involves analyzing and visualizing the spatial distribution of the Black or African American population across New York City using thematic mapping techniques. The project emphasizes comparing group differences, employing a quantile classification scheme and an inverted Plasma color ramp to highlight demographic patterns
 
-![Black Residents Percentage in NYC](Maps_images/Exercise3.png)
+<img src="Maps_images/Exercise5_1.png" alt="Image description" width="600" height="424">
+
 
 
 
