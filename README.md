@@ -96,13 +96,13 @@ concentrated in Manhattan and parts of Brooklyn, suggesting these areas
 might have irregular property market behaviors compared to the broader
 NYC trends.
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <figure style="text-align: center;">
+<p align="center">
+  <figure>
     <img src="Maps_images/outliermap.jpg" 
          alt="A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts" 
          width="400" style="height: auto;">
     <figcaption>
-      A bivariate map showing the spatial relationship between estimated median sale and list prices across NYC census tracts, highlighting potential and probable outliers in the property market
+      A bivariate map showing Outliers and the spatial relationship between estimated median sale and list prices across NYC census tracts
     </figcaption>
   </figure>
 </div>
