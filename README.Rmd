@@ -29,7 +29,7 @@ Map 1 focuses on the Bronx, where regions with low LQ, such as Mount Hope and Mo
 Map 2 extends the analysis across NYC, uncovering high investment in Kings County (e.g., Bushwick North, Stuyvesant Heights) and low investment in high LQ areas of Queens (e.g., Flushing, Elmhurst) and Southern Kings County.
 The findings reveal disparities influenced by factors such as zoning, socioeconomic demographics, and neighbourhood infrastructure. Investors prioritize regions with strong infrastructure and development potential, often overlooking areas with dense Asian populations. This analysis underscores the need for targeted strategies to address investment gaps and promote equitable housing opportunities.
 
-<img src="Maps_images/Exercise5_1.png" alt="Image description" width="700">
+<img src="Maps_images/Exercise5_1.png" alt="Image description" width="800">
 
 
 
